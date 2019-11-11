@@ -1,5 +1,4 @@
-# Travel-In-Europe
-交换学期欧洲旅游干货分享
+# Travel-In-Europe 交换学期欧洲旅游干货分享
 
 贡献者：马文星、肖昌荣
 
